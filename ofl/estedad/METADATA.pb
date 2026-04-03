@@ -1,5 +1,5 @@
 name: "Estedad"
-designer: "Fontamin, Amin Abedi"
+designer: "Amin Abedi, Fontamin"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2026-04-01"
