@@ -12320,7 +12320,8 @@ Matemasie,,/Seasonal/Valentine's Day,65
 Maven Pro,,/Expressive/Business,20
 Maven Pro,,/Expressive/Calm,77
 Maven Pro,,/Expressive/Competent,50
-Maven Pro,,/Expressive/Loud,1
+Maven Pro,wght@400,/Expressive/Loud,1
+Maven Pro,wght@900,/Expressive/Loud,88
 Maven Pro,,/Expressive/Rugged,44
 Maven Pro,,/Expressive/Sincere,40
 Maven Pro,,/Expressive/Stiff,20
