@@ -129,6 +129,7 @@ There are also handcrafted directories with rich samples:
 * <https://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/>
 * <https://www.fontsinthewild.com/google>
 * <https://stabla.github.io/good-google-fonts>
+* <https://typiq-font.vercel.app/>
 
 ## Rightsholder contacts
 
