@@ -1,9 +1,11 @@
 # New
 ofl/strichpunktsans # https://github.com/google/fonts/pull/10402
+‎ofl/estedad # https://github.com/google/fonts/pull/10401
 
 # Upgrade
-.github/workflows/test.yaml # https://github.com/google/fonts/pull/10407
 ofl/geist # https://github.com/google/fonts/pull/10406
 ofl/geistmono # https://github.com/google/fonts/pull/10407
-ofl/notokufiarabic # https://github.com/google/fonts/pull/9920
-ofl/notosansarabic # https://github.com/google/fonts/pull/9919
+
+# Designer profile
+catalog/designers/aminabedi # https://github.com/google/fonts/pull/10435
+‎catalog/designers/fontamin # https://github.com/google/fonts/pull/10436
