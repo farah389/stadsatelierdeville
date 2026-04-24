@@ -12,6 +12,7 @@ fonts {
   full_name: "Estedad Regular"
   copyright: "Copyright 2026 The Estedad Project Authors (https://github.com/aminabedi68/Estedad)"
 }
+subsets: "arabic"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
