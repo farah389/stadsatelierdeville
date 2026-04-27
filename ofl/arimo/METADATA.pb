@@ -36,7 +36,7 @@ axes {
   max_value: 700.0
 }
 source {
-  repository_url: "https://github.com/googlefonts/Arimo"
+  repository_url: "https://github.com/googlefonts/arimo"
   commit: "4a6255f269916ae7ad3fc2706b0935e7621396b8"
   files {
     source_file: "OFL.txt"
