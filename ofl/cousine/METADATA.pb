@@ -1,6 +1,6 @@
 name: "Cousine"
 designer: "Steve Matteson"
-license: "APACHE2"
+license: "OFL"
 category: "MONOSPACE"
 date_added: "2010-11-18"
 fonts {
@@ -10,7 +10,8 @@ fonts {
   filename: "Cousine-Regular.ttf"
   post_script_name: "Cousine-Regular"
   full_name: "Cousine Regular"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
+"
 }
 fonts {
   name: "Cousine"
@@ -19,7 +20,8 @@ fonts {
   filename: "Cousine-Italic.ttf"
   post_script_name: "Cousine-Italic"
   full_name: "Cousine Italic"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
+"
 }
 fonts {
   name: "Cousine"
@@ -28,7 +30,8 @@ fonts {
   filename: "Cousine-Bold.ttf"
   post_script_name: "Cousine-Bold"
   full_name: "Cousine Bold"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
+"
 }
 fonts {
   name: "Cousine"
@@ -37,7 +40,8 @@ fonts {
   filename: "Cousine-BoldItalic.ttf"
   post_script_name: "Cousine-BoldItalic"
   full_name: "Cousine Bold Italic"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
+"
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
@@ -53,5 +57,5 @@ classifications: "MONOSPACE"
 
 source {
   repository_url: "https://github.com/googlefonts/cousine"
-  commit: "7f897dbd87fbd14d2f8ec0306d5c1ed2317dfe47"
+  commit: "57b3425e222c793b84b271db6f74e1ffb6582d12"
 }
