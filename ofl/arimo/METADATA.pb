@@ -1,6 +1,6 @@
 name: "Arimo"
 designer: "Steve Matteson"
-license: "APACHE2"
+license: "OFL"
 category: "SANS_SERIF"
 date_added: "2010-11-18"
 fonts {
@@ -36,34 +36,18 @@ axes {
   max_value: 700.0
 }
 source {
-  repository_url: "https://github.com/TypeNetwork/Arimo"
-  commit: "77fdf7e032ef18c5ad72929bdea60ae6ab19adbe"
+  repository_url: "https://github.com/googlefonts/Arimo"
+  commit: "4a6255f269916ae7ad3fc2706b0935e7621396b8"
   files {
-    source_file: "LICENSE.txt"
-    dest_file: "LICENSE.txt"
+    source_file: "OFL.txt"
+    dest_file: "OFL.txt"
   }
   files {
-    source_file: "fonts/ttf/Arimo-Bold.ttf"
-    dest_file: "static/Arimo-Bold.ttf"
-  }
-  files {
-    source_file: "fonts/ttf/Arimo-BoldItalic.ttf"
-    dest_file: "static/Arimo-BoldItalic.ttf"
-  }
-  files {
-    source_file: "fonts/ttf/Arimo-Italic.ttf"
-    dest_file: "static/Arimo-Italic.ttf"
-  }
-  files {
-    source_file: "fonts/ttf/Arimo-Regular.ttf"
-    dest_file: "static/Arimo-Regular.ttf"
-  }
-  files {
-    source_file: "fonts/vf/Arimo-Italic[wght].ttf"
+    source_file: "fonts/variable/Arimo-Italic[wght].ttf"
     dest_file: "Arimo-Italic[wght].ttf"
   }
   files {
-    source_file: "fonts/vf/Arimo[wght].ttf"
+    source_file: "fonts/variable/Arimo[wght].ttf"
     dest_file: "Arimo[wght].ttf"
   }
   branch: "master"
