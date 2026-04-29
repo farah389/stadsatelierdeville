@@ -10,8 +10,7 @@ fonts {
   filename: "Cousine-Regular.ttf"
   post_script_name: "Cousine-Regular"
   full_name: "Cousine Regular"
-  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
-"
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
 }
 fonts {
   name: "Cousine"
