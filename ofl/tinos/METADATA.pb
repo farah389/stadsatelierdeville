@@ -1,6 +1,6 @@
 name: "Tinos"
 designer: "Steve Matteson"
-license: "APACHE2"
+license: "OFL"
 category: "SERIF"
 date_added: "2010-11-18"
 fonts {
@@ -10,7 +10,7 @@ fonts {
   filename: "Tinos-Regular.ttf"
   post_script_name: "Tinos-Regular"
   full_name: "Tinos Regular"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)"
 }
 fonts {
   name: "Tinos"
@@ -19,7 +19,7 @@ fonts {
   filename: "Tinos-Italic.ttf"
   post_script_name: "Tinos-Italic"
   full_name: "Tinos Italic"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)"
 }
 fonts {
   name: "Tinos"
@@ -28,7 +28,7 @@ fonts {
   filename: "Tinos-Bold.ttf"
   post_script_name: "Tinos-Bold"
   full_name: "Tinos Bold"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)"
 }
 fonts {
   name: "Tinos"
@@ -37,7 +37,7 @@ fonts {
   filename: "Tinos-BoldItalic.ttf"
   post_script_name: "Tinos-BoldItalic"
   full_name: "Tinos Bold Italic"
-  copyright: "Digitized data copyright (c) 2010-2012 Google Corporation."
+  copyright: "Copyright 2026 The Tinos Project Authors (https://github.com/googlefonts/tinos)"
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
@@ -51,5 +51,5 @@ subsets: "vietnamese"
 
 source {
   repository_url: "https://github.com/googlefonts/tinos"
-  commit: "aaf68d53c2d49dbd443631c333c804bf4c664e60"
+  commit: "3b4482a99b80ea5fc75f187b1be3120a3f5905b3"
 }
