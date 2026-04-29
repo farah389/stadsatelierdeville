@@ -12,15 +12,8 @@ fonts {
   full_name: "Libertinus Math Regular"
   copyright: "???."
 }
-subsets: "cyrillic"
-subsets: "cyrillic-ext"
-subsets: "greek"
-subsets: "greek-ext"
-subsets: "latin"
-subsets: "latin-ext"
-subsets: "math"
 subsets: "menu"
-subsets: "vietnamese"
+experiments: "dont_enable_unicode_range"
 source {
   repository_url: "https://github.com/googlefonts/libertinus"
   commit: "88dfbb0a7715817a43499e613fc8e6645174cd6a"
