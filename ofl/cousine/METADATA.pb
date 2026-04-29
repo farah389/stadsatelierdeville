@@ -20,8 +20,7 @@ fonts {
   filename: "Cousine-Italic.ttf"
   post_script_name: "Cousine-Italic"
   full_name: "Cousine Italic"
-  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
-"
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
 }
 fonts {
   name: "Cousine"
@@ -30,8 +29,7 @@ fonts {
   filename: "Cousine-Bold.ttf"
   post_script_name: "Cousine-Bold"
   full_name: "Cousine Bold"
-  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
-"
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
 }
 fonts {
   name: "Cousine"
@@ -40,8 +38,7 @@ fonts {
   filename: "Cousine-BoldItalic.ttf"
   post_script_name: "Cousine-BoldItalic"
   full_name: "Cousine Bold Italic"
-  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)
-"
+  copyright: "Copyright 2026 The Cousine Project Authors (https://github.com/googlefonts/cousine)"
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
